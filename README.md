@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Subhadip Mandal
+## Hi there 👋, I'm Subhadip Mandal
 #### I'm a web developer based in India
 
 - 🔭 I’m currently working on Techno International Newtown 
