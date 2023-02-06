@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Subhadip Mandal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+<meta name="google-site-verification" content="Qo-g1CQ6kNu_9c2I1J_9bhZvrgZNFrQfK_EooVibwf0" />
+
 - 🔭 I’m currently student at [Techno International Newtown](https://tint.edu.in/)
 
 - 🌱 I’m currently learning **Mern**
