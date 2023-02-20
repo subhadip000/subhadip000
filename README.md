@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Mern**
 
-- 👨‍💻 All of my projects are available at [https://subhahere.tech/](https://subhahere.tech/)
+- 👨‍💻 My portfolio site [https://subhahere.tech/](https://subhahere.tech/)
 
 - 📫 How to reach me **subhadipmandal688@gmail.com**
 
